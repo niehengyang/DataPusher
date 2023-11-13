@@ -1,0 +1,9 @@
+/etc/navi-business.yaml
+/go.sum
+.DS_Store
+.idea
+.idea/*
+logs/*.log
+*.bin
+*.exe
+test/*

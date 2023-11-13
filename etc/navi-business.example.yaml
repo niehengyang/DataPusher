@@ -1,0 +1,12 @@
+AdminApi:
+  Name: navi-business-adminapi
+  Host: 0.0.0.0
+  Port: 8882
+  Timeout: 300000
+Log:
+  Level: "debug"
+  Path: "/go/src/app/logs"
+  KeepDays: 7
+MaxBytes: 1048576000
+
+
